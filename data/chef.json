@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1afdd",
+    "chef_url": "https://images.pexels.com/photos/3873973/pexels-photo-3873973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Ina Garten",
+    "short_bio": "Ina Garten is a cookbook author, TV personality, and the owner of the Barefoot Contessa specialty food store.",
+    "location": "East Hampton, NY",
+    "experience": 2,
+    "number_recipe": 7,
+    "likes": 800
+  },
+  {
+    "id": "2fdgd",
+    "chef_url": "https://images.pexels.com/photos/7671473/pexels-photo-7671473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Bobby Flay",
+    "short_bio": "Bobby Flay is a celebrity chef, restaurateur, and TV personality, known for his Southwestern and Mediterranean-inspired cuisine.",
+    "location": "New York City, NY",
+    "experience": 6,
+    "number_recipe": 24,
+    "likes": 1700
+  },
+  {
+    "id": "3dfghfh",
+    "chef_url": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Alice Waters",
+    "short_bio": "Alice Waters is a chef, restaurateur, and food activist, known for her farm-to-table approach and founding the iconic restaurant, Chez Panisse.",
+    "location": "Berkeley, CA",
+    "experience": 3,
+    "number_recipe": 12,
+    "likes": 1000
+  },
+  {
+    "id": "4rtgfh",
+    "chef_url": "https://images.pexels.com/photos/4252146/pexels-photo-4252146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Chef John",
+    "short_bio": "Chef John is a culinary expert with over 20 years of experience in the restaurant industry.",
+    "location": "New York City, NY",
+    "experience": 4,
+    "number_recipe": 18,
+    "likes": 1300
+  },
+  {
+    "id": "5ghgfh",
+    "chef_url": "https://images.pexels.com/photos/4253703/pexels-photo-4253703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Chef Ahmed",
+    "short_bio": "Chef Ahmed specializes in fusion cuisine, blending flavors from different cultures to create unique and delicious dishes.",
+    "location": "Chicago, IL",
+    "experience": 7,
+    "number_recipe": 28,
+    "likes": 2000
+  },
+  {
+    "id": "6fgjhg",
+    "chef_url": "https://images.pexels.com/photos/5920733/pexels-photo-5920733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Chef Maria",
+    "short_bio": "Chef Maria is a celebrated chef who has won multiple awards for her innovative cooking style.",
+    "location": "San Francisco, CA",
+    "experience": 5,
+    "number_recipe": 22,
+    "likes": 1600
+  }
+]

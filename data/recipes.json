@@ -1,0 +1,310 @@
+[
+  {
+    "id": "879bg1",
+    "category_id": "1afdd",
+    "recipe_url": "https://images.pexels.com/photos/16557663/pexels-photo-16557663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "pancetta",
+      "egg yolks",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "cooking_method": "Boil spaghetti in salted water until al dente, while cooking pancetta in a pan. Whisk together egg yolks, parmesan cheese, and black pepper in a bowl. Drain spaghetti and add to the pan with pancetta. Remove from heat and add egg mixture, stirring until creamy. Serve immediately.",
+    "rating": 4.5,
+    "likes": 120
+  },
+  {
+    "id": "6df1",
+    "category_id": "1afdd",
+    "recipe_url": "https://images.pexels.com/photos/725997/pexels-photo-725997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Beef Stroganoff",
+    "ingredients": [
+      "beef sirloin",
+      "onion",
+      "mushrooms",
+      "sour cream",
+      "beef broth"
+    ],
+    "cooking_method": "Slice beef into thin strips and cook in a pan until browned. Remove from pan and cook onions and mushrooms until tender. Add beef broth and bring to a boil, then reduce heat and simmer. Add sour cream and beef, stirring until heated through. Serve over egg noodles.",
+    "rating": 4.2,
+    "likes": 90
+  },
+  {
+    "id": "5gf1",
+    "category_id": "1afdd",
+    "recipe_url": "https://images.pexels.com/photos/16557663/pexels-photo-16557663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Chicken Caesar Salad",
+    "ingredients": [
+      "romaine lettuce",
+      "grilled chicken breast",
+      "croutons",
+      "parmesan cheese",
+      "Caesar dressing"
+    ],
+    "cooking_method": "Grill chicken and slice into strips. Toss together romaine lettuce, croutons, parmesan cheese, and Caesar dressing. Add chicken on top and serve.",
+    "rating": 4.8,
+    "likes": 150
+  },
+  {
+    "id": "xgvcx42",
+    "category_id": "2fdgd",
+    "recipe_url": "https://images.pexels.com/photos/1527603/pexels-photo-1527603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "pancetta",
+      "egg yolks",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "cooking_method": "Boil spaghetti in salted water until al dente, while cooking pancetta in a pan. Whisk together egg yolks, parmesan cheese, and black pepper in a bowl. Drain spaghetti and add to the pan with pancetta. Remove from heat and add egg mixture, stirring until creamy. Serve immediately.",
+    "rating": 4.5,
+    "likes": 120
+  },
+  {
+    "id": "yu62",
+    "category_id": "2fdgd",
+    "recipe_url": "https://images.pexels.com/photos/725997/pexels-photo-725997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Beef Stroganoff",
+    "ingredients": [
+      "beef sirloin",
+      "onion",
+      "mushrooms",
+      "sour cream",
+      "beef broth"
+    ],
+    "cooking_method": "Slice beef into thin strips and cook in a pan until browned. Remove from pan and cook onions and mushrooms until tender. Add beef broth and bring to a boil, then reduce heat and simmer. Add sour cream and beef, stirring until heated through. Serve over egg noodles.",
+    "rating": 4.2,
+    "likes": 90
+  },
+  {
+    "id": "fghft2",
+    "category_id": "2fdgd",
+    "recipe_url": "https://images.pexels.com/photos/16557663/pexels-photo-16557663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Chicken Caesar Salad",
+    "ingredients": [
+      "romaine lettuce",
+      "grilled chicken breast",
+      "croutons",
+      "parmesan cheese",
+      "Caesar dressing"
+    ],
+    "cooking_method": "Grill chicken and slice into strips. Toss together romaine lettuce, croutons, parmesan cheese, and Caesar dressing. Add chicken on top and serve.",
+    "rating": 4.8,
+    "likes": 150
+  },
+  {
+    "id": "bncgh3",
+    "category_id": "3dfghfh",
+    "recipe_url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Baked Ziti",
+    "ingredients": [
+      "ziti pasta",
+      "tomato sauce",
+      "ricotta cheese",
+      "mozzarella cheese",
+      "parmesan cheese"
+    ],
+    "cooking_method": "Boil ziti in salted water until al dente. Mix tomato sauce with ricotta cheese and half of the mozzarella cheese. Combine pasta with sauce mixture in a baking dish, and top with remaining mozzarella and parmesan cheese. Bake at 375°F for 20-25 minutes, or until cheese is melted and bubbly.",
+    "rating": 4.0,
+    "likes": 60
+  },
+  {
+    "id": "jkhiu3",
+    "category_id": "3dfghfh",
+    "recipe_url": "https://images.pexels.com/photos/1527603/pexels-photo-1527603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Beef Tacos",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "taco shells",
+      "lettuce",
+      "tomato"
+    ],
+    "cooking_method": "Brown ground beef in a pan and add taco seasoning. Warm taco shells in the oven. Fill each shell with beef, lettuce, and tomato. Serve immediately.",
+    "rating": 4.5,
+    "likes": 110
+  },
+  {
+    "id": "gfjhgj3",
+    "category_id": "3dfghfh",
+    "recipe_url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Vegetable Stir-Fry",
+    "ingredients": [
+      "mixed vegetables",
+      "garlic",
+      "ginger",
+      "soy sauce",
+      "rice"
+    ],
+    "cooking_method": "Cook rice according to package directions. Heat oil in a wok or large pan and add garlic and ginger. Add mixed vegetables and stir-fry until tender. Add soy sauce and continue cooking until heated through. Serve over rice.",
+    "rating": 4.1,
+    "likes": 75
+  },
+  {
+    "id": "ppsf4",
+    "category_id": "4rtgfh",
+    "recipe_url": "https://images.pexels.com/photos/725997/pexels-photo-725997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Beef and Broccoli",
+    "ingredients": ["beef sirloin", "broccoli", "garlic", "soy sauce", "rice"],
+    "cooking_method": "Slice beef into thin strips and cook in a pan until browned. Remove from pan and cook garlic and broccoli until tender. Add soy sauce and beef, stirring until heated through. Serve over rice.",
+    "rating": 4.3,
+    "likes": 95
+  },
+  {
+    "id": "fsdgj4",
+    "category_id": "4rtgfh",
+    "recipe_url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Pesto Pasta",
+    "ingredients": [
+      "pasta",
+      "basil pesto",
+      "cherry tomatoes",
+      "parmesan cheese",
+      "pine nuts"
+    ],
+    "cooking_method": "Boil pasta in salted water until al dente. Drain and toss with basil pesto. Add halved cherry tomatoes, parmesan cheese, and pine nuts. Serve warm or chilled.",
+    "rating": 4.6,
+    "likes": 130
+  },
+  {
+    "id": "bmbnm4",
+    "category_id": "4rtgfh",
+    "recipe_url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Roasted Chicken",
+    "ingredients": [
+      "whole chicken",
+      "olive oil",
+      "garlic",
+      "rosemary",
+      "lemon"
+    ],
+    "cooking_method": "Preheat oven to 375°F. Rub chicken with olive oil and season with salt and pepper. Stuff with garlic, rosemary, and lemon. Roast in oven for 1 to 1 1/2 hours, or until cooked through. Let rest for 10 minutes before carving.",
+    "rating": 4.4,
+    "likes": 100
+  },
+  {
+    "id": "trzx5",
+    "category_id": "5ghgfh",
+    "recipe_url": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Shrimp Scampi",
+    "ingredients": [
+      "linguine pasta",
+      "shrimp",
+      "garlic",
+      "butter",
+      "white wine"
+    ],
+    "cooking_method": "Cook pasta according to package directions. Meanwhile, cook garlic in butter until fragrant. Add shrimp and cook until pink. Add white wine and simmer until slightly reduced. Toss with cooked pasta and serve.",
+    "rating": 4.5,
+    "likes": 120
+  },
+  {
+    "id": "jlkjh5",
+    "category_id": "5ghgfh",
+    "recipe_url": "https://images.pexels.com/photos/725997/pexels-photo-725997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Taco Salad",
+    "ingredients": [
+      "ground beef",
+      "lettuce",
+      "tomatoes",
+      "cheddar cheese",
+      "taco seasoning"
+    ],
+    "cooking_method": "Brown beef in a pan and add taco seasoning. Toss with lettuce, chopped tomatoes, and grated cheddar cheese. Serve with tortilla chips and sour cream.",
+    "rating": 4.2,
+    "likes": 90
+  },
+  {
+    "id": "fdgfb5",
+    "category_id": "5ghgfh",
+    "recipe_url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Fajitas",
+    "ingredients": [
+      "chicken breast",
+      "bell peppers",
+      "onions",
+      "tortillas",
+      "salsa"
+    ],
+    "cooking_method": "Slice chicken, bell peppers, and onions into thin strips. Cook in a pan until chicken is browned and vegetables are tender. Serve with warm tortillas and salsa.",
+    "rating": 4.4,
+    "likes": 100
+  },
+  {
+    "id": "fgx6",
+    "category_id": "6fgjhg",
+    "recipe_url": "https://images.pexels.com/photos/1527603/pexels-photo-1527603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Spinach and Feta Stuffed Chicken",
+    "ingredients": [
+      "chicken breast",
+      "spinach",
+      "feta cheese",
+      "garlic",
+      "olive oil"
+    ],
+    "cooking_method": "Preheat oven to 375°F. Mix spinach, feta cheese, and garlic in a bowl. Cut a pocket in the thickest part of each chicken breast and stuff with the spinach mixture. Rub with olive oil and season with salt and pepper. Bake for 25-30 minutes, or until cooked through.",
+    "rating": 4.7,
+    "likes": 150
+  },
+  {
+    "id": "fhg6",
+    "category_id": "6fgjhg",
+    "recipe_url": "https://images.pexels.com/photos/16557663/pexels-photo-16557663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Beef Stroganoff",
+    "ingredients": [
+      "beef sirloin",
+      "onion",
+      "mushrooms",
+      "sour cream",
+      "egg noodles"
+    ],
+    "cooking_method": "Slice beef into thin strips and brown in a pan. Remove beef and cook onion and mushrooms until tender. Add beef back to the pan and stir in sour cream. Serve over cooked egg noodles.",
+    "rating": 4.6,
+    "likes": 135
+  },
+  {
+    "id": "gfhfg6",
+    "category_id": "6fgjhg",
+    "recipe_url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Vegetable Stir Fry",
+    "ingredients": [
+      "broccoli",
+      "carrots",
+      "snow peas",
+      "mushrooms",
+      "soy sauce"
+    ],
+    "cooking_method": "Heat oil in a pan and add vegetables. Cook until tender-crisp. Stir in soy sauce and serve over rice.",
+    "rating": 4.3,
+    "likes": 95
+  },
+  {
+    "id": "uy4trew",
+    "category_id": "1afdd",
+    "recipe_url": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Salmon with Dill Sauce",
+    "ingredients": ["salmon fillet", "lemon", "dill", "mayonnaise", "garlic"],
+    "cooking_method": "Preheat oven to 400°F. Place salmon in a baking dish and squeeze lemon over it. Mix dill, mayonnaise, and garlic in a bowl and spread over the top of the salmon. Bake for 15-20 minutes, or until cooked through.",
+    "rating": 4.8,
+    "likes": 170
+  },
+  {
+    "id": "sf42",
+    "category_id": "2fdgd",
+    "recipe_url": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_name": "Chicken Parmesan",
+    "ingredients": [
+      "chicken breast",
+      "bread crumbs",
+      "parmesan cheese",
+      "marinara sauce",
+      "mozzarella cheese"
+    ],
+    "cooking_method": "Preheat oven to 400°F. Dip chicken in beaten egg and coat in a mixture of bread crumbs and parmesan cheese. Place chicken in a baking dish and top with marinara sauce and shredded mozzarella cheese. Bake for 25-30 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+    "rating": 4.5,
+    "likes": 130
+  }
+]
